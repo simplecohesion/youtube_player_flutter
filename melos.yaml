@@ -1,5 +1,5 @@
 name: youtube_player
-repository: https://github.com/sarbagyastha/youtube_player_flutter
+repository: https://github.com/simplecohesion/youtube_player_flutter
 
 packages:
   - packages/**
