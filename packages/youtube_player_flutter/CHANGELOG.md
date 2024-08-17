@@ -1,3 +1,13 @@
+## 9.0.3
+* Fixes issue where loading indicator would always show.
+* Updates the default color of the progress indicator to be primary container color.
+
+## 9.0.2
+* Fixes issue with getting error logs even after disposing player.
+
+## 9.0.1
+* Fixes issue with fullscreen pop.
+
 ## 9.0.0
 * Bumps `flutter_inappwebview` to latest version.
 

@@ -1,4 +1,23 @@
 # Changelog
+## 5.1.5
+**Aug 13, 2024**
+- Updates readme
+- Improves pub score
+
+## 5.1.4
+**Aug 3, 2024**
+- Bumps dependency to latest version.
+- Fixes issue where only one of player would initialize at a time in web.
+
+## 5.1.3
+**Jul 1, 2024**
+- Bumps dependency to latest version.
+
+## 5.1.2
+**Apr 12, 2024**
+- Bumps dependency to latest version.
+- Updates minimum supported SDK version to Flutter 3.19.0/Dart 3.3.0.
+
 ## 5.1.1
 **Feb 21, 2024**
 - Improves pub score.
